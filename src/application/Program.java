@@ -29,7 +29,7 @@ public class Program {
 		if(cont3 instanceof ContaPoupanca) {
 			ContaPoupanca cont5 = (ContaPoupanca) cont3;
 			cont5.atualizacaoSaldo();
-			System.out.println("Atualização!");
+			System.out.println("Atualizacao!");
 		}
 	}
 
